@@ -99,3 +99,4 @@ This WebSocket-based chat application is a minimal yet powerful example of how r
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6ad05633-f1d4-45f4-8d46-cacbd7bfcbd6" />
 
+<img width="809" height="237" alt="Image" src="https://github.com/user-attachments/assets/46ac53bd-afac-492d-bd3b-d4f377dd30c8" />
